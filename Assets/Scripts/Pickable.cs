@@ -8,6 +8,6 @@ public class Pickable : Interactable
     {
         if(InteractingPlayer.HoldableObject != null) return;
 
-        InteractingPlayer.HoldableObject = Instantiate(givableObject, InteractingPlayer.objectHolder);
+        InteractingPlayer.GiveObject(givableObject, false);
     }
 }

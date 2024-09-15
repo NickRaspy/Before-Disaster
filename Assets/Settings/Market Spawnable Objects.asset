@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724f7c734ad2e5b45806d8ec4ed8bae0, type: 3}
+  m_Name: Market Spawnable Objects
+  m_EditorClassIdentifier: 
+  objects:
+  - groupName: Shelf
+    objects:
+    - required: {fileID: 7823529483961769745, guid: ac853dac6491af142b26ce7fe92fe245, type: 3}
+      main: {fileID: 2344975675330009121, guid: 0812b8435ea85014fa419ab8518c2fe2, type: 3}
+      markerSprite: {fileID: 21300000, guid: 16ab5758e876c0749854f6fd7f5fc7b5, type: 3}
+    - required: {fileID: 4069511072269433411, guid: 1179f79c32350f5499cd09262d35a6b6, type: 3}
+      main: {fileID: 8748494258153668570, guid: b37e50ea78c2fe24698503470b460213, type: 3}
+      markerSprite: {fileID: 21300000, guid: ca28f2ab5d97e8643b0e8a9cf1fb06af, type: 3}
+    - required: {fileID: 8385544974519799712, guid: 4991ef0fbd0773745abfa15b26234293, type: 3}
+      main: {fileID: 4378857694811325109, guid: 2b27a613738924a47a5413712da1ee8b, type: 3}
+      markerSprite: {fileID: 21300000, guid: 4e3f9eec648e00c4c91afa5abfd3feec, type: 3}
+  - groupName: Fridge
+    objects:
+    - required: {fileID: 4876325003222979398, guid: 739bc474b073c184e85c21fc98c98213, type: 3}
+      main: {fileID: 7211822852602901999, guid: f57ab2067ea403743a7915cc6452c2af, type: 3}
+      markerSprite: {fileID: 21300000, guid: cda808085e2f8eb4495d3f52ebe89752, type: 3}
+    - required: {fileID: 696416663618602051, guid: 2080c18fe171b104ba0f7f4156db6951, type: 3}
+      main: {fileID: 1484278413997263008, guid: 593e06d47a3eb554ba15ce2cbb6183f9, type: 3}
+      markerSprite: {fileID: 21300000, guid: e59bd794022c1d141a296042dc153414, type: 3}
+  - groupName: Freezer
+    objects:
+    - required: {fileID: 8801883904448362357, guid: 2a7c56b81103d4c4dac1fa3c865155c9, type: 3}
+      main: {fileID: 3884469626945429586, guid: 9219cfcf12cdac74fae1a904814d3857, type: 3}
+      markerSprite: {fileID: 21300000, guid: 8d7adfabfc5c83b48a601539d6548d27, type: 3}
+    - required: {fileID: 0}
+      main: {fileID: 2502436070861723396, guid: e84f2737f3eb2ae4b8feb44ae4d8aab7, type: 3}
+      markerSprite: {fileID: 21300000, guid: 859d68cc851160044a259163d68be6b5, type: 3}
+  - groupName: Vegetable
+    objects:
+    - required: {fileID: 375272622976505709, guid: 47a990653fc69564796fd817577c5417, type: 3}
+      main: {fileID: 3970305432428796824, guid: 5b1749bace975b848a62d90dd02d5206, type: 3}
+      markerSprite: {fileID: 21300000, guid: 97c38c398978a6346a39762b6bb7a54e, type: 3}
+    - required: {fileID: 210427624754475192, guid: 5bbfc67ad2be8354f9a0b1e76549dbb4, type: 3}
+      main: {fileID: 3774911262723889605, guid: ada003b75bab8b14d802e6d82a78f58d, type: 3}
+      markerSprite: {fileID: 21300000, guid: 733af888aa68585418fbbae2fd55f2b0, type: 3}
+    - required: {fileID: 8181149657510346163, guid: b508f8fe8ca732947a04988d8da8b70a, type: 3}
+      main: {fileID: 5001471477761251888, guid: 78d900bb3616f2b429c8e69199d6766e, type: 3}
+      markerSprite: {fileID: 21300000, guid: 965e7675092e4844e8e4e4594c2c8e7c, type: 3}
+    - required: {fileID: 6293686965881165365, guid: f5503b68f5fc9c449a869c891d2af4c7, type: 3}
+      main: {fileID: 4254262081317884893, guid: ae1eb5d60886365489abce00d5f87af3, type: 3}
+      markerSprite: {fileID: 21300000, guid: d5d4b89354450d14d8df10704e39c3b9, type: 3}

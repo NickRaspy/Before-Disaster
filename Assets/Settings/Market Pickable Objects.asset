@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b7d3c295c8bb94c85da9f9d330ece2, type: 3}
+  m_Name: Market Pickable Objects
+  m_EditorClassIdentifier: 
+  objects:
+  - type: 1
+    gameObject: {fileID: 7823529483961769745, guid: ac853dac6491af142b26ce7fe92fe245, type: 3}
+  - type: 1
+    gameObject: {fileID: 4069511072269433411, guid: 1179f79c32350f5499cd09262d35a6b6, type: 3}
+  - type: 1
+    gameObject: {fileID: 8385544974519799712, guid: 4991ef0fbd0773745abfa15b26234293, type: 3}
+  - type: 1
+    gameObject: {fileID: 375272622976505709, guid: 47a990653fc69564796fd817577c5417, type: 3}
+  - type: 1
+    gameObject: {fileID: 93565501515580056, guid: 22987acd7e83e5745a56e066a6340c05, type: 3}
+  - type: 1
+    gameObject: {fileID: 8181149657510346163, guid: b508f8fe8ca732947a04988d8da8b70a, type: 3}
+  - type: 1
+    gameObject: {fileID: 8801883904448362357, guid: 2a7c56b81103d4c4dac1fa3c865155c9, type: 3}
+  - type: 1
+    gameObject: {fileID: 4876325003222979398, guid: 739bc474b073c184e85c21fc98c98213, type: 3}
+  - type: 1
+    gameObject: {fileID: 210427624754475192, guid: 5bbfc67ad2be8354f9a0b1e76549dbb4, type: 3}
+  - type: 1
+    gameObject: {fileID: 6293686965881165365, guid: f5503b68f5fc9c449a869c891d2af4c7, type: 3}
+  - type: 1
+    gameObject: {fileID: 696416663618602051, guid: 2080c18fe171b104ba0f7f4156db6951, type: 3}
+  - type: 0
+    gameObject: {fileID: 7620875415664731946, guid: d14732192fee7b24ebf1801f9d0899cb, type: 3}

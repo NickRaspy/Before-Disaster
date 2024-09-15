@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2726725416109596142}
   m_Layer: 0
   m_Name: Test Pick
-  m_TagString: Untagged
+  m_TagString: Holdable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
